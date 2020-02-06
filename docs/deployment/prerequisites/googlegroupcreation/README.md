@@ -67,7 +67,7 @@ Follow the below steps(click on the picture for a larger image):
 
 ### Next Steps
 Once you have completed creating the groups.  You are now ready 
-to create a [Linux Virtual](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/virtualmachinecreation)
+to create a [Linux Virtual](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/virtualmachinecreation)
  for deployment  
   
 #### Reference Documentation

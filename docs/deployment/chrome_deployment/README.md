@@ -23,7 +23,7 @@ The Prequisites are as follows that need to be completed before beginning the De
 *	[OAuth2.0 ID Creation](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/oauthid)
 *	[Service Account Creation](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/serviceaccountcreation)
 *	[Google Groups Creation](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/googlegroupcreation)
-*	[Linux Virtual Machine Creation](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/virtualmachinecreation)
+*	[Linux Virtual Machine Creation](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/virtualmachinecreation)
 *	[Git Repository Created](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/gitrepositorycreated)
 *	Text Document or [Google Keep Notes]() used to record information that will be used in this step
 

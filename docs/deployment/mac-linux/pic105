@@ -23,7 +23,7 @@ The Prequisites are as follows that need to be completed before beginning the De
 *	[OAuth2.0 ID Creation](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/oauthid)
 *	[Service Account Creation](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/serviceaccountcreation)
 *	[Google Groups Creation](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/googlegroupcreation)
-*	[Linux Virtual Machine Creation](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/virtualmachinecreation)
+*	[Linux Virtual Machine Creation](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/virtualmachinecreation)
 *	[Git Repository Created](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/gitrepositorycreated)
 *	Text Document or [Google Keep Notes]() used to record information that will be used in this step
 
@@ -39,7 +39,7 @@ taken throughout the process handy for input during this process.  This will con
 
 
 #### Deploying the Web Application
-* Lets begin by logging into our Linux VM if you have been following the guide. The Linux Virtual Machine Creation](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/virtualmachinecreation)
+* Lets begin by logging into our Linux VM if you have been following the guide. The Linux Virtual Machine Creation](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/virtualmachinecreation)
 will show you how to create and access the Linux VM. Be sure to also have your Google Keep open in another tab 
 or your text editor handy with the information that has been recorded throughout the Example. 
 
