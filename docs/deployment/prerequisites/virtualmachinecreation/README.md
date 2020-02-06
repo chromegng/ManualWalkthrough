@@ -70,7 +70,7 @@ Follow the below steps(click on the picture for a larger image):
 #### Prepping the VM
 Your Virtual Linux Machine will need the following dependecies installed:
 -   Install Git
--   Install Bazel
+-   Install Bazel 0.19
 -   Install the Google Cloud SDK
 -   Install NPM
 You may install these on your own but for the sake of this tutorial. a script has been provided that 
@@ -93,13 +93,58 @@ that shows you how.
 <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic5.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic5%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic6.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic6%4050%25.jpg" style="width:100%"/></a>
 
 
-**17.**	Start Typing to bring the prompt back and copy/paste<br> `git clone https://github.com/kid-yume/gnglinuxdeployment.git --branch dev --single-branch`.Press <kbd>`Enter`</kbd>      |**18.**  Now Type or Copy/Paste<br> `sudo chmod +x gnglinuxdeployment/deployment/InitialSetUp.sh`
+**17.**	Start Typing to bring the prompt back and copy/paste<br> `sudo apt-get install pkg-config zip g++ zlib1g-dev unzip python python-dev`.Press <kbd>`Enter`</kbd>      |**18.**  Now Type or Copy/Paste<br> `sudo apt-get install -y --no-install-recommends \ `
+:-------------------------:|:-------------------------:
+<a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8%4050%25.jpg" style="width:100%"/></a>
+
+
+**17.**	Start Typing to bring the prompt back and copy/paste<br> `zlib1g-dev`.Press <kbd>`Enter`</kbd>      |**18.**  Now Type or Copy/Paste<br> `sudo curl -LO "https://github.com/bazelbuild/bazel/releases/download/0.19.0/bazel_0.19.0-linux-x86_64.deb"`
+:-------------------------:|:-------------------------:
+<a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8%4050%25.jpg" style="width:100%"/></a>
+
+**17.**	Start Typing to bring the prompt back and copy/paste<br> `sudo dpkg -i bazel_*.deb`.Press <kbd>`Enter`</kbd>      |**18.**  Now Test Bazel with: `bazel version` and you should see:
+:-------------------------:|:-------------------------:
+<a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8%4050%25.jpg" style="width:100%"/></a>
+
+
+**17.**	Start Typing to bring the prompt back and copy/paste<br> `sudo apt-get -y nodejs`.Press <kbd>`Enter`</kbd>      |**18.**   Now Type or Copy/Paste<br>  `sudo apt-get install curl software-properties-common` 
+:-------------------------:|:-------------------------:
+<a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8%4050%25.jpg" style="width:100%"/></a>
+
+
+**17.**	Start Typing to bring the prompt back and copy/paste<br> `curl -sL https://deb.nodesource.com/setup_12.x | sudo bash -`.Press <kbd>`Enter`</kbd>      |**18.**   Now Type or Copy/Paste<br>  `sudo apt-get install nodejs` 
+:-------------------------:|:-------------------------:
+<a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8%4050%25.jpg" style="width:100%"/></a>
+
+**17.**	Start Typing to bring the prompt back and copy/paste<br> `sudo npm install npm@latest -g`.Press <kbd>`Enter`</kbd>      |**18.**   Now Type or Copy/Paste<br>  `sudo npm install node-sass@latest -g` 
+:-------------------------:|:-------------------------:
+<a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8%4050%25.jpg" style="width:100%"/></a>
+
+**17.**	Start Typing to bring the prompt back and copy/paste<br> `sudo npm install npm@latest -g`.Press <kbd>`Enter`</kbd>      |**18.**   Now Type or Copy/Paste<br>  `sudo npm install node-sass@latest -g` 
+:-------------------------:|:-------------------------:
+<a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8%4050%25.jpg" style="width:100%"/></a>
+
+**17.**	Start Typing to bring the prompt back and copy/paste<br> `curl https://sdk.cloud.google.com | bash`.Press <kbd>`Enter`</kbd>      |**18.**   Now Type or Copy/Paste<br>  `sudo exec -l $SHELL` 
+:-------------------------:|:-------------------------:
+<a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8%4050%25.jpg" style="width:100%"/></a>
+
+
+**17.**	Start Typing to bring the prompt back and copy/paste<br> `sudo apt-get update && sudo apt-get install google-cloud-sdk`.Press <kbd>`Enter`</kbd>      |**18.**   Now Type or Copy/Paste<br>  `sudo exec -l $SHELL` 
 :-------------------------:|:-------------------------:
 <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8%4050%25.jpg" style="width:100%"/></a>
 
 
 
-**19.**	Now Type or Copy/Paste<br> `gnglinuxdeployment/deployment/InitialSetUp.sh`  <br>**REMINDER** Press <kbd>Y</kbd>  whenever prompted and allow full installation      |**20.**  At the following prompt just press <kbd>`Enter`</kbd> . Leave it blank
+
+**19.**	Now Type or Copy/Paste<br> `bash-completion \`  <br>**REMINDER** Press <kbd>Y</kbd>  whenever prompted and allow full installation      |**20.**  At the following prompt just press <kbd>`Enter`</kbd> . Leave it blank
+:-------------------------:|:-------------------------:
+<a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic9.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic9%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic10.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic10%4050%25.jpg" style="width:100%"/></a> 
+
+
+
+
+
+**19.**	Now Type or Copy/Paste<br> `bash-completion \`  <br>**REMINDER** Press <kbd>Y</kbd>  whenever prompted and allow full installation      |**20.**  At the following prompt just press <kbd>`Enter`</kbd> . Leave it blank
 :-------------------------:|:-------------------------:
 <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic9.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic9%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic10.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic10%4050%25.jpg" style="width:100%"/></a> 
 
