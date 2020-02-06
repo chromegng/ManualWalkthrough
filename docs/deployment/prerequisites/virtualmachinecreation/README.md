@@ -112,7 +112,7 @@ that shows you how.
 <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8%4050%25.jpg" style="width:100%"/></a>
 
 
-**17.**	Start Typing to bring the prompt back and copy/paste<br> `curl -sL https://deb.nodesource.com/setup_12.x | sudo bash -`.Press <kbd>`Enter`</kbd>      |**18.**   Now Type or Copy/Paste<br>  `sudo apt-get install nodejs` 
+**17.**	Start Typing to bring the prompt back and copy/paste<br> `curl -sL https://deb.nodesource.com/setup_12.x \| sudo bash -`.Press <kbd>`Enter`</kbd>      |**18.**   Now Type or Copy/Paste<br>  `sudo apt-get install nodejs` 
 :-------------------------:|:-------------------------:
 <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8%4050%25.jpg" style="width:100%"/></a>
 
@@ -124,15 +124,9 @@ that shows you how.
 :-------------------------:|:-------------------------:
 <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8%4050%25.jpg" style="width:100%"/></a>
 
-**17.**	Start Typing to bring the prompt back and copy/paste<br> `curl https://sdk.cloud.google.com | bash`.Press <kbd>`Enter`</kbd>      |**18.**   Now Type or Copy/Paste<br>  `sudo exec -l $SHELL` 
+**17.**	Start Typing to bring the prompt back and copy/pastes<br> `curl https://sdk.cloud.google.com \| bash`.Press <kbd>`Enter`</kbd>      |**18.**   Now Type or Copy/Paste<br>  `sudo exec -l $SHELL` 
 :-------------------------:|:-------------------------:
 <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8%4050%25.jpg" style="width:100%"/></a>
-
-
-**17.**	Start Typing to bring the prompt back and copy/paste<br> `sudo apt-get update && sudo apt-get install google-cloud-sdk`.Press <kbd>`Enter`</kbd>      |**18.**   Now Type or Copy/Paste<br>  `sudo exec -l $SHELL` 
-:-------------------------:|:-------------------------:
-<a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8%4050%25.jpg" style="width:100%"/></a>
-
 
 
 
