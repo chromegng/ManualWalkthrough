@@ -123,7 +123,7 @@ that shows you how.
 :-------------------------:|:-------------------------:
 <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8%4050%25.jpg" style="width:100%"/></a>
 
-**29.**	Start Typing to bring the prompt back and copy/paste<br> `sudo apt-get install curl software-properties-common`.Press <kbd>`Enter`</kbd>      |**30.**  Now Type or Copy/Paste<br> `curl -sL https://deb.nodesource.com/setup_12.x | sudo bash -`
+**29.**	Start Typing to bring the prompt back and copy/paste<br> `sudo apt-get install curl software-properties-common`.Press <kbd>`Enter`</kbd>      |**30.**  Now Type or Copy/Paste<br> `curl -sL https://deb.nodesource.com/setup_12.x \| sudo bash -`
 :-------------------------:|:-------------------------:
 <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8%4050%25.jpg" style="width:100%"/></a>
 
@@ -141,7 +141,7 @@ that shows you how.
 <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8%4050%25.jpg" style="width:100%"/></a>
 
 #### Installing Cloud SDK
-**37.**	Type `Clear`;<br> and hit <kbd>`Enter`</kbd>. Lets clear the screen      |**38.**  Now Type or Copy/Paste<br> `curl https://sdk.cloud.google.com | bash`
+**37.**	Type `Clear`;<br> and hit <kbd>`Enter`</kbd>. Lets clear the screen      |**38.**  Now Type or Copy/Paste<br> `curl https://sdk.cloud.google.com /| bash`
 :-------------------------:|:-------------------------:
 <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic7%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/vmcreation/Installation/JPG/pic8%4050%25.jpg" style="width:100%"/></a>
 
