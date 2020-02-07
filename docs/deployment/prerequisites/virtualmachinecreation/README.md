@@ -73,9 +73,7 @@ Your Virtual Linux Machine will need the following dependecies installed:
 -   [Install Bazel](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/virtualmachinecreation#installing-bazel)
 -   [Install the Google Cloud SDK](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/virtualmachinecreation#installing-cloud-sdk)
 -   [Install NPM](https://github.com/chromegng/ManualWalkthrough/blob/master/docs/deployment/prerequisites/virtualmachinecreation/README.md#installing-node)
-You may install these on your own but for the sake of this tutorial. a script has been provided that 
-will do the initial installions for you. Follow the below steps to run the script. Continuing from 
-the previous step of initially creating the VM. **ALL COMMANDS CASE-SENSITIVE** might be easier to 
+ **ALL COMMANDS CASE-SENSITIVE** might be easier to 
 copy and paste the commands. To do so an article can be found [here](https://cloud.google.com/compute/docs/ssh-in-browser?hl=en#copypaste)
 that shows you how. 
 
