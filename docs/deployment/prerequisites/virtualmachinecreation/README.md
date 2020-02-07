@@ -69,10 +69,10 @@ Follow the below steps(click on the picture for a larger image):
 
 #### Prepping the VM
 Your Virtual Linux Machine will need the following dependecies installed:
--   Install Git
--   Install Bazel
--   Install the Google Cloud SDK
--   Install NPM
+-   [Install Git]()
+-   [Install Bazel](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/virtualmachinecreation#installing-bazel)
+-   [Install the Google Cloud SDK](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/virtualmachinecreation#installing-cloud-sdk)
+-   [Install NPM](https://github.com/chromegng/ManualWalkthrough/blob/master/docs/deployment/prerequisites/virtualmachinecreation/README.md#installing-node)
 You may install these on your own but for the sake of this tutorial. a script has been provided that 
 will do the initial installions for you. Follow the below steps to run the script. Continuing from 
 the previous step of initially creating the VM. **ALL COMMANDS CASE-SENSITIVE** might be easier to 
