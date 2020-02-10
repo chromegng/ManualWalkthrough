@@ -99,7 +99,7 @@ We will be making edits to the following files manually through the use of Linux
 
 **11.**	Type <br> `vi ~/loaner/loaner/web_app/client-secret.json` and press <kbd>`Enter`</kbd>   |
 :-------------------------:|
-<a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic11.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic11%4050%25.jpg" style="width:100%"/></a> |
+<a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic11.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic11.jpg" style="width:100%"/></a> |
 
 
 **13.**	**STOP** Here before you type anything and proceed to the next step    |**14.**  Go to your Google [keep]() or your text editor; copy the **Domain** entry from there
