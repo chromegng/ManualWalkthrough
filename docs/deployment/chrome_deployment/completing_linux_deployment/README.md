@@ -15,10 +15,10 @@ returning, and monitoring these devices.
 
 
 ## Chrome Deployment Steps completed so far:
-1.	[Uploading the GnG Chrome App to Chrome Webstore](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/uploading_to_chromestore) 
-2.	[Generating and Recording Public Key](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/generating_and_recording_publickey)
-3.	[Generating and Recording Chrome OauthID client ID](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/generating_and_recording_oauthid)
-4.	[Adding Chrome OAuth client ID to whitelist](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/adding_chrome_oauth_clientid_to_whitelist)
+1.	[Uploading the GnG Chrome App to Chrome Webstore](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/uploading_to_chromestore) 
+2.	[Generating and Recording Public Key](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/generating_and_recording_publickey)
+3.	[Generating and Recording Chrome OauthID client ID](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/generating_and_recording_oauthid)
+4.	[Adding Chrome OAuth client ID to whitelist](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/adding_chrome_oauth_clientid_to_whitelist)
 
 
 #### Completing Linux Deoployment
@@ -65,7 +65,7 @@ returning, and monitoring these devices.
 
 
 ## Next Steps
-* We will now begin the final part of the deployment, that will consist of [Uploading the final build](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/uploading_final_build)
+* We will now begin the final part of the deployment, that will consist of [Uploading the final build](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/uploading_final_build)
 for your chrome app. Here we will begin the process of updating the Web Applicaiton and Chrome application to the most recently deployed build. Keep your chrome open and proceed to the final step. 
 
 

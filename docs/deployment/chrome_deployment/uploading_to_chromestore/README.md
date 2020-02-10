@@ -139,7 +139,7 @@ and head back into our Linux VM
 
 
 ## Next Steps
-* We will now begin the portion of the deployment that will consist of [Generating and Recording the Public Key](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/generating_and_recording_publickey)
+* We will now begin the portion of the deployment that will consist of [Generating and Recording the Public Key](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/generating_and_recording_publickey)
 for your chrome app. This will also be important to completing the deployment from our Linux VM.
 
 #### Reference Documentation

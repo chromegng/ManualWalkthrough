@@ -14,9 +14,9 @@ that manages enterprise enrolled Chrome OS devices by automatically assigning,
 returning, and monitoring these devices.
 
 ## Chrome Deployment Steps completed so far:
-1.	[Uploading the GnG Chrome App to Chrome Webstore](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/uploading_to_chromestore) 
-2.	[Generating and Recording Public Key](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/generating_and_recording_publickey)
-3.	[Generating and Recording Chrome OauthID client ID](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/generating_and_recording_oauthid)
+1.	[Uploading the GnG Chrome App to Chrome Webstore](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/uploading_to_chromestore) 
+2.	[Generating and Recording Public Key](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/generating_and_recording_publickey)
+3.	[Generating and Recording Chrome OauthID client ID](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/generating_and_recording_oauthid)
 
 
 
@@ -55,7 +55,7 @@ returning, and monitoring these devices.
 
 
 ## Next Steps
-* We will now begin the portion of the deployment that will consist of [Completing the Linux Deoployment](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/completing_linux_deployment)
+* We will now begin the portion of the deployment that will consist of [Completing the Linux Deoployment](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/completing_linux_deployment)
 for your chrome app. We will be going back to the Linux VM and completing the deployment from there; with
 the information we have recorded in our [Google Keep]() or text document you have stored the informaiton.  
 

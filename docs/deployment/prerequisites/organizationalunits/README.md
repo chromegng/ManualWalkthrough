@@ -70,7 +70,7 @@ Follow the below steps(click on the picture for a larger image):
 
 
 ### Next Steps
-You have fullfilled the Prequisites and ready to move on to [Enabling Google Cloud Billing](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/billingaccountid)
+You have fullfilled the Prequisites and ready to move on to [Enabling Google Cloud Billing](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/billingaccountid)
 
 
 ## Contributing

@@ -17,9 +17,9 @@ returning, and monitoring these devices.
 ## Prequisites
 
 The Prequisites are as follows that need to be completed before doing this step: 
-*	[Verify Super Admin Access](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/verifysuperadminaccess)
-*	[Create GnG Organizational Units](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/organizationalunits)
-*	[Enable Google Cloud Billing & retrieve "Billing Account ID"](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/billingaccountid)
+*	[Verify Super Admin Access](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/verifysuperadminaccess)
+*	[Create GnG Organizational Units](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/organizationalunits)
+*	[Enable Google Cloud Billing & retrieve "Billing Account ID"](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/billingaccountid)
 
 We will go through how to do each of the above following throughout this guide. If you find yourself having difficulties a
 [YouTube](google.com) video has been uploaded showing how to properly go through each of these items. 
@@ -102,7 +102,7 @@ steps below(click on the picture for a larger image):
 
 ### Next Steps 
 
-You have completed this Prequisite and ready to move on to [Service Account Creation.](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/serviceaccountcreation)
+You have completed this Prequisite and ready to move on to [Service Account Creation.](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/serviceaccountcreation)
 
 
 #### Reference Documentation

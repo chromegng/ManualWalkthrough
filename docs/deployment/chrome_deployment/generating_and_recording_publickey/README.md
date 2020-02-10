@@ -15,7 +15,7 @@ returning, and monitoring these devices.
 
 
 ##Chrome Deployment Steps completed so far:
-1.	[Uploading the GnG Chrome App to Chrome Webstore](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/uploading_to_chromestore)
+1.	[Uploading the GnG Chrome App to Chrome Webstore](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/uploading_to_chromestore)
 
 
 
@@ -36,7 +36,7 @@ returning, and monitoring these devices.
 <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic86.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic86%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic87.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic87%4050%25.jpg" style="width:100%"/></a>
 
 ## Next Steps
-* Retrieving the information for the Public Key was not hard at all and you will need the Item ID during the next when you are [Generating and Recording Chrome OauthID client ID](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/generating_and_recording_oauthid) for your chrome app. This will be important to completing the deployment from our Linux VM.
+* Retrieving the information for the Public Key was not hard at all and you will need the Item ID during the next when you are [Generating and Recording Chrome OauthID client ID](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/generating_and_recording_oauthid) for your chrome app. This will be important to completing the deployment from our Linux VM.
 
 
 #### Reference Documentation

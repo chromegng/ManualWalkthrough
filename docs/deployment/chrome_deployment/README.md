@@ -17,24 +17,24 @@ returning, and monitoring these devices.
 ## Prequisites
 
 The Prequisites are as follows that need to be completed before beginning the Deployment: 
-*	[Verify Super Admin Access](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/verifysuperadminaccess)
-*	[Create GnG Organizational Units](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/organizationalunits)
-*	[Enabling Google Cloud Billing](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/billingaccountid)
-*	[OAuth2.0 ID Creation](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/oauthid)
-*	[Service Account Creation](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/serviceaccountcreation)
-*	[Google Groups Creation](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/googlegroupcreation)
+*	[Verify Super Admin Access](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/verifysuperadminaccess)
+*	[Create GnG Organizational Units](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/organizationalunits)
+*	[Enabling Google Cloud Billing](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/billingaccountid)
+*	[OAuth2.0 ID Creation](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/oauthid)
+*	[Service Account Creation](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/serviceaccountcreation)
+*	[Google Groups Creation](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/googlegroupcreation)
 *	[Linux Virtual Machine Creation](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/virtualmachinecreation)
-*	[Git Repository Created](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/gitrepositorycreated)
+*	[Git Repository Created](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/gitrepositorycreated)
 *	Text Document or [Google Keep Notes]() used to record information that will be used in this step
 
 
 ## Chrome Deployment is made up of the following steps: 
-1.	[Uploading the GnG Chrome App to Chrome Webstore](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/uploading_to_chromestore)
-2.	[Generating and Recording Public Key](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/generating_and_recording_publickey)
-3.	[Generating and Recording Chrome OauthID client ID](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/generating_and_recording_oauthid)
-4.	[Adding Chrome OAuth client ID to whitelist](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/adding_chrome_oauth_clientid_to_whitelist)
-5.	[Completing Linux Deoployment](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/completing_linux_deployment)
-6.	[Uploading Final Chrome App Build to webstore](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/uploading_final_build)
+1.	[Uploading the GnG Chrome App to Chrome Webstore](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/uploading_to_chromestore)
+2.	[Generating and Recording Public Key](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/generating_and_recording_publickey)
+3.	[Generating and Recording Chrome OauthID client ID](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/generating_and_recording_oauthid)
+4.	[Adding Chrome OAuth client ID to whitelist](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/adding_chrome_oauth_clientid_to_whitelist)
+5.	[Completing Linux Deoployment](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/completing_linux_deployment)
+6.	[Uploading Final Chrome App Build to webstore](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/uploading_final_build)
 
 
 #### Reference Documentation

@@ -42,7 +42,7 @@ Follow the below steps(click on the picture for a larger image):
 
 ### Next Steps
 As long as the account you are using has the "Super Admin Role". You have fullfilled the first prequisite 
-and ready to move on to [Creating GnG Organizational Units](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/organizationalunits) 
+and ready to move on to [Creating GnG Organizational Units](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/organizationalunits) 
 in the prerequisites process. Remember the information of the Super Admin and if you do not have access contact your 
 network administrator for further instruction. 
 

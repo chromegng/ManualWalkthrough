@@ -15,8 +15,8 @@ returning, and monitoring these devices.
 
 
 ## Deployment Steps completed so far:
-1.	[Web Application Deployment](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/mac-linux)
-2.	[Chrome Application Deployment](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment)
+1.	[Web Application Deployment](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/mac-linux)
+2.	[Chrome Application Deployment](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment)
 
 ### Verifying Current Version in App Engine
 We will begin the final phase of deployment in our cloud console. Verifying that all your backen and Web Application is on the most current build and properly running wihtout redirecting to bootstrapping anymore.
@@ -66,7 +66,7 @@ We will begin the final phase of deployment in our cloud console. Verifying that
 
 
 ## Next Steps
-Chrome Deployment is now complete! The Last step is to make sure all your App Engine application are running on the latest versions. To this go to the final step : [Verifying App Engine is running on the Current Version]((https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/app_engine_verification))
+Chrome Deployment is now complete! The Last step is to make sure all your App Engine application are running on the latest versions. To this go to the final step : [Verifying App Engine is running on the Current Version]((https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/app_engine_verification))
 
 
 

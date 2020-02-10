@@ -17,10 +17,10 @@ returning, and monitoring these devices.
 ## Prequisites
 
 The Prequisites are as follows that need to be completed before doing this step: 
-*	[Verify Super Admin Access](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/verifysuperadminaccess)
-*	[Create GnG Organizational Units](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/organizationalunits)
-*	[OAuth2.0 ID Creation](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/oauthid)
-*	[Enable Google Cloud Billing ](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/billingaccountid)
+*	[Verify Super Admin Access](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/verifysuperadminaccess)
+*	[Create GnG Organizational Units](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/organizationalunits)
+*	[OAuth2.0 ID Creation](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/oauthid)
+*	[Enable Google Cloud Billing ](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/billingaccountid)
 
 We will go through how to do each of the above following throughout this guide. If you find yourself having difficulties a
 [YouTube](google.com) video has been uploaded showing how to properly go through each of these items. 
@@ -101,7 +101,7 @@ account with the proper roles in order for GnG to interact with the backend.
 
 <br></br>
 ### Next Steps
-You have fullfilled the Prequisite and ready to create ["Google Groups"](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/googlegroupcreation)
+You have fullfilled the Prequisite and ready to create ["Google Groups"](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/googlegroupcreation)
 
 
 

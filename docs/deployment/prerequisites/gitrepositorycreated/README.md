@@ -20,12 +20,12 @@ The Prequisites are as follows that need to either be verified or installed and
 further instructions can be found by clicking each link:
 
 
-*	[Verify Super Admin Access](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/verifysuperadminaccess)
-*	[Create GnG Organizational Units](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/organizationalunits)
-*	[Enable Google Cloud Billingcd .cd ](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/billingaccountid)
-*	[OAuth2.0 ID Creation](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/oauthid)
-*	[Service Account Creation](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/serviceaccountcreation)
-*	[Google Groups Creation](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/googlegroupcreation)
+*	[Verify Super Admin Access](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/verifysuperadminaccess)
+*	[Create GnG Organizational Units](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/organizationalunits)
+*	[Enable Google Cloud Billingcd .cd ](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/billingaccountid)
+*	[OAuth2.0 ID Creation](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/oauthid)
+*	[Service Account Creation](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/serviceaccountcreation)
+*	[Google Groups Creation](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/googlegroupcreation)
 *	[Linux Virtual Machine Creation](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/virtualmachinecreation)
 
 
@@ -86,7 +86,7 @@ Follow the below steps(click on the picture for a larger image):
 
 
 ### Next Steps
-Once you have fullfilled the prerequisites, you are now ready to move onto [Deploying GnG!](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/mac-linux). Please make sure you have completed all of the other prerequisites 
+Once you have fullfilled the prerequisites, you are now ready to move onto [Deploying GnG!](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/mac-linux). Please make sure you have completed all of the other prerequisites 
 and have your Google Keep and/or text file handy for this step in the process. 
   
 #### Reference Documentation

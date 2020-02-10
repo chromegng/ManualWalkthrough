@@ -17,12 +17,12 @@ returning, and monitoring these devices.
 ## Prequisites
 
 The Prequisites are as follows that need to be completed before doing this step: 
-*	[Verify Super Admin Access](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/verifysuperadminaccess)
-*	[Create GnG Organizational Units](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/organizationalunits)
-*	[Enable Google Cloud Billing & retrieve "Billing Account ID"](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/billingaccountid)
-*	[OAuth2.0 ID Creation](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/oauthid)
-*	[Service Account Creation](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/serviceaccountcreation)
-*	[Google Groups Creation](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/googlegroupcreation)
+*	[Verify Super Admin Access](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/verifysuperadminaccess)
+*	[Create GnG Organizational Units](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/organizationalunits)
+*	[Enable Google Cloud Billing & retrieve "Billing Account ID"](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/billingaccountid)
+*	[OAuth2.0 ID Creation](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/oauthid)
+*	[Service Account Creation](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/serviceaccountcreation)
+*	[Google Groups Creation](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/googlegroupcreation)
 
 We highly recommend creating this virtual machine, so that you may deploy GnG through means of this 
 virtual Linux Machine, there will be an automation process involved with deploying GnG and a manual 
@@ -159,7 +159,7 @@ that shows you how.
 
 ### Next Steps
 You have fullfilled the Prequisites and ready to move on to creating your
-[Github Repository](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/gitrepositorycreated)
+[Github Repository](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/gitrepositorycreated)
 
 #### Reference Documentation
 

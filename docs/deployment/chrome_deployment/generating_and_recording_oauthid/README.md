@@ -14,8 +14,8 @@ that manages enterprise enrolled Chrome OS devices by automatically assigning,
 returning, and monitoring these devices.
 
 ## Chrome Deployment Steps completed so far:
-1.	[Uploading the GnG Chrome App to Chrome Webstore](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/uploading_to_chromestore)
-2.	[Generating and Recording Public Key](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/generating_and_recording_publickey)
+1.	[Uploading the GnG Chrome App to Chrome Webstore](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/uploading_to_chromestore)
+2.	[Generating and Recording Public Key](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/generating_and_recording_publickey)
 
 
 
@@ -61,7 +61,7 @@ returning, and monitoring these devices.
 
 
 ## Next Steps
-* We will now begin the portion of the deployment that will consist of [Whitelisting the Chrome OAuth client ID](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/adding_chrome_oauth_clientid_to_whitelist) for your chrome app and making sure it has the 
+* We will now begin the portion of the deployment that will consist of [Whitelisting the Chrome OAuth client ID](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/adding_chrome_oauth_clientid_to_whitelist) for your chrome app and making sure it has the 
 proper permissions to make API calls against your Domain. 
 
 

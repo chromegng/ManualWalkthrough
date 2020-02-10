@@ -15,11 +15,11 @@ returning, and monitoring these devices.
 
 
 ## Chrome Deployment Steps completed so far:
-1.	[Uploading the GnG Chrome App to Chrome Webstore](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/uploading_to_chromestore) 
-2.	[Generating and Recording Public Key](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/generating_and_recording_publickey)
-3.	[Generating and Recording Chrome OauthID client ID](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/generating_and_recording_oauthid)
-4.	[Adding Chrome OAuth client ID to whitelist](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/adding_chrome_oauth_clientid_to_whitelist)
-5.	[Completing Linux Deoployment](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment/completing_linux_deployment)
+1.	[Uploading the GnG Chrome App to Chrome Webstore](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/uploading_to_chromestore) 
+2.	[Generating and Recording Public Key](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/generating_and_recording_publickey)
+3.	[Generating and Recording Chrome OauthID client ID](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/generating_and_recording_oauthid)
+4.	[Adding Chrome OAuth client ID to whitelist](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/adding_chrome_oauth_clientid_to_whitelist)
+5.	[Completing Linux Deoployment](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment/completing_linux_deployment)
 
 ### Uploading Final Chrome App Build to Webstore and updating Web Application
 We will begin the final step by first opening the github URL you have saved in your [Google Keep]() or text document in a new tab. if it is already open be sure you have refreshed the page. 
@@ -84,7 +84,7 @@ We will begin the final step by first opening the github URL you have saved in y
 
 
 ## Next Steps
-Chrome Deployment is now complete! The Last step is to make sure all your App Engine application are running on the latest versions. To this go to the final step : [Verifying App Engine is running on the Current Version]((https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/app_engine_verification))
+Chrome Deployment is now complete! The Last step is to make sure all your App Engine application are running on the latest versions. To this go to the final step : [Verifying App Engine is running on the Current Version]((https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/app_engine_verification))
 
 
 

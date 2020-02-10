@@ -17,7 +17,7 @@ returning, and monitoring these devices.
 ## Prequisites
 
 The Prequisites are as follows that need to be completed before doing this step: 
-*	[Verify Super Admin Access](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/prerequisites/verifysuperadminaccess)
+*	[Verify Super Admin Access](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/verifysuperadminaccess)
 
 
 We will go through how to do each of the above following throughout this guide. If you find yourself having difficulties a
