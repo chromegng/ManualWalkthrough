@@ -44,35 +44,62 @@ taken throughout the process handy for input during this process.  This will con
 will show you how to create and access the Linux VM. Be sure to also have your Google Keep open in another tab
 or your text editor handy with the information that has been recorded throughout the Example.
 
-**1.**	Lets start off with Copy/Pasting:<br> `sudo chmod a+x gnglinuxdeployment/deployment/deployment.sh` and press <kbd>`Enter`</kbd>    |**2.**  Now Type or Copy/Paste:<br> `gnglinuxdeployment/deployment/deployment.sh` and press <kbd>`Enter`</kbd>
-:-------------------------:|:-------------------------:
- <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic1.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic1%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic2.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic2%4050%25.jpg" style="width:100%"/></a>
 
+### Making Manual edits with Linux
+We will be making edits to the following files manually through the use of Linux commands.  
+* deployment.sh
+* client-secret.json
+* BUILD
+* constants.py
+* config.ts
 
-**3.**	In this first part you will press the number <kbd>2</kbd>  and hit <kbd>Enter</kbd>    |**4.**  Type the letter <kbd>Y</kbd> for yes and hit  <kbd>Enter</kbd>.
-:-------------------------:|:-------------------------:
-<a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic3.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic3%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic4.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic4%4050%25.jpg" style="width:100%"/></a>
-
-
-**5.**	Follow the link and sign into the super admin account. Copy the code that is provided to you, following a successful log in, and paste it back into the prompt        |**6.**  Enter <kbd>N</kbd> to make the project use default settings
-:-------------------------:|:-------------------------:
-<a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic5.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic5%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic6.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic6%4050%25.jpg" style="width:100%"/></a>
-
-
-**7.**	**STOP** Here before you continue and proceed to the next step    |**8.**  Go to your Google [keep]() or your text editor; copy the **Project ID** from there
+**1.**	**STOP** Here before you continue and proceed to the next step  |**2.**	Go to your Google [keep]() or your text editor; copy the **Project ID** from there
 :-------------------------:|:-------------------------:
 <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic7.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic7%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic8.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic8%4050%25.jpg" style="width:100%"/></a>
 
+### Deployment.sh
+
+**3.** Go back to the VM: Type <br> `vi ~/loaner/loaner/web_app/deployment.sh` and press <kbd>`Enter`</kbd>     |**4.**  When Pressing the letter `i` the document now becomes editable. Using the arrow keys move to the line with `PROD="loaner-prod"` and replace `loaner-prod` with your Project ID then press <kbd>`Esc`</kbd>
+:-------------------------:|:-------------------------:
+<a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic8.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic8%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic4.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic4%4050%25.jpg" style="width:100%"/></a>
 
 
-**9.**	Go back to your VM:<br>MAC machines press <kbd>&#x2318;</kbd> &  <kbd>v</kbd> <br> Windows press <kbd>Ctrl</kbd> & <kbd>v</kbd>  <br> Then Press <kbd>Enter</kbd>  |**10.**  **STOP** before typing anything again move to the next step and copy the proper answer from your Keep or Text Document.
+**5.**	In order to save changes: Type <br> `:wq` and press <kbd>`Enter`</kbd>        |**6.**  You will be returned to the home screen. You will need to run `gcloud init` if have not done already and press <kbd>`Enter`</kbd>. Login with your super admin account and select your project ID from the options
+:-------------------------:|:-------------------------:
+<a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic5.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic5%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic6.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic6%4050%25.jpg" style="width:100%"/></a>
+
+### client-secret.json
+* You will be using a gcloud command to download the service account key into the folder. Be sure to remove brackets when pasting your service account email into the end of the command.
+
+**7.**	**STOP** Here before you continue and proceed to the next step    |**8.**  Go to your Google [keep]() or your text editor; copy the **Service Account Email** from there
+:-------------------------:|:-------------------------:
+<a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic11.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic11%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic12.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic12%4050%25.jpg" style="width:100%"/></a>
+
+
+**9.**	Go back to your VM:using the command `gcloud iam service-accounts keys create ~/loaner/loaner/web_app/client-secret.json --iam-account [paste service Account emal here]`  |**10.**  **STOP** before typing anything again move to the next step.
 :-------------------------:|:-------------------------:
 <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic9.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic9%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic10.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic10%4050x.jpg" style="width:100%"/></a>
 
+### BUILD
+* You will be making manual edits to this file as well and will need to make the following changes:
+** In `loaner/web_app/BUILD`, update following section of code:
 
-**11.**	Go to your Google [keep]() or your text editor; copy the **Service Account Email** from there   |**12.** Go back to your VM:<br>MAC machines press <kbd>&#x2318;</kbd> &  <kbd>v</kbd> <br> Windows press <kbd>Ctrl</kbd> & <kbd>v</kbd>  <br> Then Press <kbd>Enter</kbd>
-:-------------------------:|:-------------------------:
-<a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic11.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic11%4050%25.jpg" style="width:100%"/></a> |  <a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic12.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic12%4050%25.jpg" style="width:100%"/></a>
+```
+    loaner_appengine_library(
+        name = "loaner",
+        data = ["client-secret.json"],  # Add this line.
+        deps = [
+            ":chrome_api",
+            ":endpoints_api",
+            ":main",
+            "//loaner/web_app/backend",
+        ],
+    )
+```
+
+**11.**	Type <br> `vi ~/loaner/loaner/web_app/client-secret.json` and press <kbd>`Enter`</kbd>   |
+:-------------------------:|
+<a href="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic11.jpg"><img src="https://storage.googleapis.com/gngloaner-compwalkt/Comprehensive%20Walkthrough/Web%20Application%20Deployment/pic11%4050%25.jpg" style="width:100%"/></a> |
 
 
 **13.**	**STOP** Here before you type anything and proceed to the next step    |**14.**  Go to your Google [keep]() or your text editor; copy the **Domain** entry from there
