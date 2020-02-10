@@ -1,5 +1,5 @@
 <!-- mdformat off(GitHub header) -->
-Gng Recommended Best Practice Guides Prequisites
+Gng Recommended Best Practice Guides prerequisites
 ======
 <!-- mdformat on -->
 

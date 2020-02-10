@@ -14,9 +14,9 @@ that manages enterprise enrolled Chrome OS devices by automatically assigning,
 returning, and monitoring these devices.
 
 
-## Prequisites
+## prerequisites
 
-The Prequisites are as follows that need to either be verified or installed and
+The prerequisites are as follows that need to either be verified or installed and
 further instructions can be found by clicking each link:
 
 

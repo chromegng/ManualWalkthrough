@@ -1,5 +1,5 @@
 <!-- mdformat off(GitHub header) -->
-Gng Recommended Best Practice Guides Prequisites
+Gng Recommended Best Practice Guides prerequisites
 ======
 <!-- mdformat on -->
 
@@ -14,9 +14,9 @@ that manages enterprise enrolled Chrome OS devices by automatically assigning,
 returning, and monitoring these devices.
 
 
-## Prequisites
+## prerequisites
 
-The Prequisites are as follows that need to either be verified or installed:
+The prerequisites are as follows that need to either be verified or installed:
 *	Super Admin Access
 *	Enable Google Cloud Billing & retrieve "Billing Account ID"
 *	Google SDK-[ Windows](https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe), [MAC](https://cloud.google.com/sdk/docs/downloads-interactive#mac), [Linux](https://cloud.google.com/sdk/docs/downloads-interactive#linux).
@@ -90,7 +90,7 @@ you are an administrator on your device and have the necessary permissions. If n
 video provided and see how to install the programs on all Operating Systems. 
 <br></br>
 ### Next Steps
-You have fullfilled the Prequisites and ready to move on to [Phase I]() of the deployment process. Please 
+You have fullfilled the prerequisites and ready to move on to [Phase I]() of the deployment process. Please 
 make sure you have the super admin account login information, "Billing Account ID" recorded, and software 
 installed in order to move forward into Phase I.
   

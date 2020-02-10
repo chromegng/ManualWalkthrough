@@ -14,7 +14,7 @@ that manages enterprise enrolled Chrome OS devices by automatically assigning,
 returning, and monitoring these devices.
 
 
-# Prequisites
+# prerequisites
 Please make sure you have the following prerquisites completed:
 *	[Verifying Super Admin Access](docs/deployment/prerequisites/verifysuperadminaccess/README.md)
 
@@ -70,7 +70,7 @@ Follow the below steps(click on the picture for a larger image):
 
 
 ### Next Steps
-You have fullfilled the Prequisites and ready to move on to [Enabling Google Cloud Billing](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/billingaccountid)
+You have fullfilled the prerequisites and ready to move on to [Enabling Google Cloud Billing](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/billingaccountid)
 
 
 ## Contributing

@@ -14,9 +14,9 @@ that manages enterprise enrolled Chrome OS devices by automatically assigning,
 returning, and monitoring these devices.
 
 
-## Prequisites
+## prerequisites
 
-The Prequisites are as follows that need to be completed before beginning the Deployment: 
+The prerequisites are as follows that need to be completed before beginning the Deployment: 
 *	[Verify Super Admin Access](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/verifysuperadminaccess)
 *	[Create GnG Organizational Units](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/organizationalunits)
 *	[Enabling Google Cloud Billing](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/billingaccountid)

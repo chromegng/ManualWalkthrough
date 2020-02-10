@@ -1,5 +1,5 @@
 <!-- mdformat off(GitHub header) -->
-Gng Recommended Best Practice Guides Prequisites
+Gng Recommended Best Practice Guides prerequisites
 ======
 <!-- mdformat on -->
 
@@ -14,9 +14,9 @@ that manages enterprise enrolled Chrome OS devices by automatically assigning,
 returning, and monitoring these devices.
 
 
-## Prequisites
+## prerequisites
 
-The Prequisites are as follows that need to be completed before doing this step: 
+The prerequisites are as follows that need to be completed before doing this step: 
 *	[Verify Super Admin Access](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/prerequisites/verifysuperadminaccess)
 
 

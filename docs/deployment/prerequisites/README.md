@@ -14,9 +14,9 @@ that manages enterprise enrolled Chrome OS devices by automatically assigning,
 returning, and monitoring these devices.
 
 
-## Prequisites
+## prerequisites
 
-The Prequisites are as follows that need to either be verified or installed and
+The prerequisites are as follows that need to either be verified or installed and
 further instructions can be found by clicking each link:
 
 
@@ -35,7 +35,7 @@ We will go through how to do each of the above following throughout this guide. 
 
 
 ### Next Steps
-Once you have fullfilled the Prequisites, you are now ready to move onto [Deploying GnG!](). Please 
+Once you have fullfilled the prerequisites, you are now ready to move onto [Deploying GnG!](). Please 
 make sure you have the super admin account login information, "Billing Account ID" recorded,
 Oauth2ID, and software installed in order to move forward into deployment.
   
