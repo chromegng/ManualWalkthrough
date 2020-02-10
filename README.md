@@ -40,13 +40,13 @@ not hesitate to post an issue.
 	if there is any confusion on any of the steps.
 
 ## Deploying GnG
-Once all of the Prerequisites have been fullfiled. You may now begin the deployment process;
+Once all of the Prerequisites have been fulfilled. You may now begin the deployment process;
 With the usage of the Virtual Machine created when completing your prerequisites, you will follow
 the following process needed to complete the deployment of GnG:
 
-*	[Web Application Deployment](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/mac-linux)
-*	[Chrome Application Deployment](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/chrome_deployment)
-*	[Verifying Current Version in App Engine](https://github.com/kid-yume/gnglinuxdeployment/tree/dev/docs/deployment/app_engine_verification)
+*	[Web Application Deployment](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/mac-linux)
+*	[Chrome Application Deployment](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/chrome_deployment)
+*	[Verifying Current Version in App Engine](https://github.com/chromegng/ManualWalkthrough/tree/master/docs/deployment/app_engine_verification)
 
 ## Life After Deployment
 Congratulations! You have completed setting up your profile with the basic unedited version of Grab N Go. If your
